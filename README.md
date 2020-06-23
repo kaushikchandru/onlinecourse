@@ -1,16 +1,10 @@
-# onlinelearning
+# Online Course Application
+A new Flutter application for daily grocery. 
+Design Credit : https://www.uplabs.com/posts/online-learning-apps
 
-A new Flutter application.
+# Tutorial
+Tutorial link : https://youtu.be/QFMwvZUb1xo
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+If you like my work, please consider supporting me with your kind contribution. Thank you!!!
+<div><a href=https://paypal.me/kaushikchandru?locale.x=en_GB>paypal </a></div>
